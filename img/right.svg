@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="arrow" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 13.9 13.9" style="enable-background:new 0 0 13.9 13.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#8C8B8B;}
+	.st1{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
+</style>
+<circle id="fondo" class="st0" cx="7" cy="7" r="7"/>
+<polyline id="flecha" class="st1" points="4.4,1.7 9.6,6.9 4.3,12.3 "/>
+</svg>
